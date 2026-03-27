@@ -199,3 +199,8 @@ button:active {
     padding: 30px;
   }
 }
+
+#output2 {
+  padding: 10px;
+  background-color: rgb(213, 213, 230);
+}
